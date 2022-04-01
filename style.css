@@ -222,6 +222,7 @@
     font-weight: lighter;
     font-size: 26px;
     margin-bottom: 25px;
+    text-align: center;
   }
   
   .trainer-bio p {
@@ -249,7 +250,9 @@
     display:block;text-align:center
   }
 
-  
+  .trainer img {
+    height: 300px;
+    }
   
 
 
