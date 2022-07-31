@@ -48,6 +48,10 @@ header nav ul li a {
   position: relative;
 }
 
+.hero-form h3 {
+  font-size: x-large;
+}
+
 .hero-form {
   background-color: #fce138;
   padding: 20px;
