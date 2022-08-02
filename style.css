@@ -249,7 +249,12 @@ body {
 footer {
   background: #fce138;
   width: 100%;
-  padding: 40px 35px;
+  padding: -100px 0
+}
+
+footer section {
+  justify-content: space-between;
+  padding: 30px;
 }
 
 footer h2 {
