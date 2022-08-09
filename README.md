@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-http://runbuddyhelper.com/
+https://gilded-shortbread-34b583.netlify.app/
 
 ## Contribution
 Made with ❤️ by Miguel Puerto
