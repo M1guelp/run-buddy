@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+/*text color*/
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #39a6b2;
+}
+
 /*header styles*/
 /* Applies 20px to the top and bottom, then 35px to the left and right */
 header {
@@ -39,7 +45,10 @@ header nav ul li a {
   font-size: 22px;
 }
 
-/*hero style start*/
+
+/* --------------------------------------- */
+/* ----- Hero Form Styling ----- */
+/* --------------------------------------- */
 .hero {
   background-image: url(../images/hero-bg.jpg);
   height: 600px;
@@ -88,9 +97,11 @@ header nav ul li a {
   padding: 10px 20px;
   font-size: 16px;
 }
-/*hero style end*/
 
-/*what we do*/
+/* --------------------------------------- */
+/* ----- what we do Styling ----- */
+/* --------------------------------------- */
+
 .intro {
   text-align: center;
 }
@@ -121,7 +132,10 @@ header nav ul li a {
   margin: 0 auto;
 }
 
-/*what you do*/
+/* --------------------------------------- */
+/* ----- what you do Styling ----- */
+/* --------------------------------------- */
+
 .steps {
   text-align: center;
   background: #fce138;
@@ -150,6 +164,10 @@ header nav ul li a {
 .steps span {
   font-size: 38px;
 }
+
+/* --------------------------------------- */
+/* ----- Trainers Styling ----- */
+/* --------------------------------------- */
 
 .trainers {
   text-align: center;
@@ -198,7 +216,10 @@ header nav ul li a {
   text-align: right;
 }
 
-/*REACH OUT STYLES START*/
+/* --------------------------------------- */
+/* ----- Reach out contact form styling ----- */
+/* --------------------------------------- */
+
 .contact {
   text-align: center;
   background: #024e76;
@@ -238,14 +259,9 @@ header nav ul li a {
   color: #fce138;
 }
 
-/* REACH OUT STYLES END */
-
-/*text color*/
-body {
-  font-family: Helvetica, Arial, sans-serif;
-  color: #39a6b2;
-}
-
+/* --------------------------------------- */
+/* ----- Footer Styling ----- */
+/* --------------------------------------- */
 footer {
   background: #fce138;
   width: 100%;
